@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WeatherForecast</string>
+
+    <string name="ic_home">home Button</string>
+    <string name="ic_setting">setting Button</string>
+    <string name="ic_cart">cart Button</string>
+    <string name="ic_favorite">favorite Button</string>
 </resources>
