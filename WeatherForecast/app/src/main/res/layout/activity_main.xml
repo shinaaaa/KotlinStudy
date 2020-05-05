@@ -37,7 +37,6 @@
         <ImageButton
             android:id="@+id/btn_main_home"
             style="@style/mainImageBtn"
-            android:background="@android:color/transparent"
             android:contentDescription="@string/ic_home"
             android:scaleType="fitCenter"
             android:src="@drawable/ic_home"
@@ -49,7 +48,6 @@
         <ImageButton
             android:id="@+id/btn_main_favorite"
             style="@style/mainImageBtn"
-            android:background="@android:color/transparent"
             android:contentDescription="@string/ic_favorite"
             android:src="@drawable/ic_favorite"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -60,7 +58,6 @@
         <ImageButton
             android:id="@+id/btn_main_cart"
             style="@style/mainImageBtn"
-            android:background="@android:color/transparent"
             android:contentDescription="@string/ic_cart"
             android:src="@drawable/ic_cart"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -71,7 +68,6 @@
         <ImageButton
             android:id="@+id/btn_main_setting"
             style="@style/mainImageBtn"
-            android:background="@android:color/transparent"
             android:contentDescription="@string/ic_setting"
             android:src="@drawable/ic_setting"
             app:layout_constraintBottom_toBottomOf="parent"
